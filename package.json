@@ -1,0 +1,17 @@
+{
+  "name": "coffee-fake-api",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "table": [
+    {
+      "id": 1,
+      "name": "Bàn 1",
+      "isReserved": false,
+      "reservationTime": "",
+      "price": 0.0,
+      "location": "Sân vườn"
+    },
+    {
+      "id": 2,
+      "name": "Bàn 2",
+      "isReserved": true,
+      "reservationTime": "2024-05-20T19:00:00Z",
+      "price": 200.0,
+      "location": "Phòng lạnh"
+    },
+    {
+      "id": 3,
+      "name": "Bàn 3",
+      "isReserved": false,
+      "reservationTime": "",
+      "price": 0.0,
+      "location": "Ngoài trời"
+    },
+    {
+      "id": 4,
+      "name": "Bàn 4",
+      "isReserved": true,
+      "reservationTime": "2024-05-20T18:30:00Z",
+      "price": 250.0,
+      "location": "Sân thượng"
+    },
+    {
+      "id": 5,
+      "name": "Bàn 5",
+      "isReserved": false,
+      "reservationTime": "",
+      "price": 0.0,
+      "location": "Sân vườn"
+    },
+    {
+      "id": 6,
+      "name": "Bàn 6",
+      "isReserved": true,
+      "reservationTime": "2024-05-20T20:20:00Z",
+      "price": 350.0,
+      "location": "Phòng lạnh"
+    },
+    {
+      "id": 7,
+      "name": "Bàn 7",
+      "isReserved": false,
+      "reservationTime": "",
+      "price": 0.0,
+      "location": "Ngoài trời"
+    },
+    {
+      "id": 8,
+      "name": "Bàn 8",
+      "isReserved": true,
+      "reservationTime": "2024-05-20T21:30:00Z",
+      "price": 450.0,
+      "location": "Sân thượng"
+    },
+    {
+      "id": 9,
+      "name": "Bàn 9",
+      "isReserved": false,
+      "reservationTime": "",
+      "price": 0.0,
+      "location": "Sân vườn"
+    }
+  ]
+}
