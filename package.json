@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --watch db.json --port 8000"
   },
   "devDependencies": {
     "@types/bun": "latest"
