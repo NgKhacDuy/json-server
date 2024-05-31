@@ -73,5 +73,5 @@
       "location": "Sân vườn"
     }
   ],
-  "staus": "ok"
+  "status": { "code": 200, "message": "Success" }
 }
