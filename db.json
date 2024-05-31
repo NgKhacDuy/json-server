@@ -73,5 +73,217 @@
       "location": "Sân vườn"
     }
   ],
-  "status": { "code": 200, "message": "Success" }
+  "status": { "code": 200, "message": "Success" },
+  "category": [
+    {
+      "id": 1,
+      "name": "Nước ngọt"
+    },
+    {
+      "id": 2,
+      "name": "Cà phê"
+    },
+    {
+      "id": 3,
+      "name": "Ca cao"
+    },
+    {
+      "id": 4,
+      "name": "Sữa"
+    },
+    {
+      "id": 5,
+      "name": "Sinh tố"
+    },
+    {
+      "id": 6,
+      "name": "Nước ép"
+    },
+    {
+      "id": 7,
+      "name": "Món ăn"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Coca Cola",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Redbull Thái",
+      "price": "18000",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Dr Thanh",
+      "price": "18000",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Sting sữa",
+      "price": "25000",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Number One sữa",
+      "price": "25000",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Sting",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "7 Up",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "name": "Pepsi",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "name": "Sprite",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "name": "Mirinda",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "name": "Number One",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "name": "Redbull Việt",
+      "price": "17000",
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "name": "Revive",
+      "price": "15000",
+      "categoryId": 1
+    },
+    {
+      "id": 14,
+      "name": "Nha đam tự nhiên",
+      "price": "25000",
+      "categoryId": 1
+    },
+    {
+      "id": 15,
+      "name": "Thanh nhiệt Sensa Cools",
+      "price": "25000",
+      "categoryId": 1
+    },
+    {
+      "id": 16,
+      "name": "Cafe Nóng",
+      "price": "15000",
+      "categoryId": 2
+    },
+    {
+      "id": 17,
+      "name": "Cafe Sữa",
+      "price": "20000",
+      "categoryId": 2
+    },
+    {
+      "id": 18,
+      "name": "Bạc Xỉu",
+      "price": "22000",
+      "categoryId": 2
+    },
+    {
+      "id": 19,
+      "name": "Cafe Đá",
+      "price": "15000",
+      "categoryId": 2
+    },
+    {
+      "id": 20,
+      "name": "Cacao Nóng",
+      "price": "26000",
+      "categoryId": 3
+    },
+    {
+      "id": 21,
+      "name": "Cacao Đá",
+      "price": "25000",
+      "categoryId": 3
+    },
+    {
+      "id": 22,
+      "name": "Cacao Sữa Đá",
+      "price": "27000",
+      "categoryId": 3
+    },
+    {
+      "id": 22,
+      "name": "Cacao Sữa Đá",
+      "price": "27000",
+      "categoryId": 3
+    },
+    {
+      "id": 23,
+      "name": "Sữa Tươi Nóng",
+      "price": "15000",
+      "categoryId": 4
+    },
+    {
+      "id": 24,
+      "name": "Sữa Tươi Đá",
+      "price": "15000",
+      "categoryId": 4
+    },
+    {
+      "id": 25,
+      "name": "Sữa Tươi Không Đá",
+      "price": "17000",
+      "categoryId": 4
+    },
+    {
+      "id": 26,
+      "name": "Sữa Tươi Cafe Đá",
+      "price": "25000",
+      "categoryId": 4
+    },
+    {
+      "id": 27,
+      "name": "Sữa Tươi Cafe Nóng",
+      "price": "20000",
+      "categoryId": 4
+    },
+    {
+      "id": 28,
+      "name": "Sữa Tươi Cacao Đá",
+      "price": "25000",
+      "categoryId": 4
+    },
+    {
+      "id": 29,
+      "name": "Sữa Đá Chanh",
+      "price": "17000",
+      "categoryId": 4
+    }
+  ]
 }
